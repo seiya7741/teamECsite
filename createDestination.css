@@ -1,0 +1,53 @@
+
+#contents{
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.vertical-list-table{
+	width:80%;
+	margin:auto;
+	text-align:;
+	height:50px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-spacing:0;
+	border-collapse:collapse;
+}
+
+.vertical-list-table th{
+	background-color:#2e8b57;
+	color:white;
+	width:30%;
+	border:1px solid lightgray;
+	text-align: left;
+	padding: 10px;
+}
+
+.vertical-list-table td{
+	background-color:#ffffff;
+	width:70%;
+	border:1px solid lightgray;
+	padding:5px;
+}
+.txt{
+	background-color:#fffdd0;
+	width:95%;
+	height:30px;
+	margin:5px;
+}
+.c_submit_box{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.c_submit_btn_box{
+	width : 0%;
+	display : block;
+	margin-top : 30px;
+	margin-bottom : 5px;
+	margin-left : 3%;
+	padding-left : 42%;
+	text-align:center;
+}
+

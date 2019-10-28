@@ -1,0 +1,51 @@
+
+.vertical-list-table{
+	width:80%;
+	margin:auto;
+	text-align:left;
+	height:50px;
+	margin-top:20px;
+	margin-bottom:20px;
+	border-spacing:0;
+	border-collapse:collapse;
+}
+
+.vertical-list-table th{
+	background-color:#2e8b57;
+	color:white;
+	width:30%;
+	border:1px solid lightgray;
+	text-align: left;
+	padding: 10px;
+}
+
+.vertical-list-table td{
+	background-color:#ffffff;
+	width:70%;
+	border:1px solid lightgray;
+	padding: 10px;
+}
+
+.m_submit_box{
+	text-align: center;
+	margin-top: 30px;
+}
+
+.m_submit_btn_box{
+	width : 45%;
+	display : block;
+	margin-top : 5px;
+	margin-bottom : 5px;
+	margin-left : 3%;
+	padding-left : 42%;
+	text-align:center;
+}
+.info{
+	color:#2e8b57;
+	border:1px solid #2e8b57;
+	background-color:#a7d28d;
+	margin:0 auto;
+	width:75%;
+	padding:1em;
+	text-align: center;
+}
